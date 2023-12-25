@@ -2,7 +2,7 @@
 #### 指导教师：林欣、杨静
 -----------------------------
 
-* ### [ICA-KE Team 2023 Autumn Seminar](./ICA-KE20Team20202320Autumn20Seminar)
+* ### [ICA-KE Team 2023 Autumn Seminar](./ICA-KE%20Team%202023%20Autumn%20Seminar/)
   #### 研究方向：
   
   * ###### 自然语言处理
