@@ -1,8 +1,8 @@
 # ICA-KE Team 2023 Autumn Seminar
 
-##### 指导教师：林欣、杨静
+### 指导教师：林欣、杨静
 
-##### 研究方向：
+### 研究方向：
 
 * ###### 自然语言处理
 
@@ -14,6 +14,7 @@
   |曾彪杰|LLM solve Math Word Problem||
   |赵晨|The Hallucination Detection of LLM||
   |陈皓|LLM for Education||
+  
 * ###### 多模态机器学习
 
   |汇报人|汇报主题|链接|
@@ -22,6 +23,7 @@
   |黄炎|语义通信||
   |万一天|图像美学评估||
   |孙熙江|基于空间布局的图片生成||
+  
 * ###### 图神经网络
 
   |汇报人|汇报主题|链接|
@@ -30,6 +32,7 @@
   |高静宜|Transformer for Graphs||
   |陈元庆|Heterogeneous Graph||
   |赵佳辰|Graph Contrastive Learning||
+  
 * ###### 强化学习
 
   |汇报人|汇报主题|链接|
