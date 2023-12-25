@@ -8,7 +8,7 @@
 
   |汇报人|汇报主题|链接|
   | :--------: | :----------------------------------: | ------|
-  |李昌群|Parameter-efficient Fine-Tuning|[Slides](./Parameter-efficient Fine-Tuning(李昌群).pdf)|
+  |李昌群|Parameter-efficient Fine-Tuning|[Slides](./Parameter-efficient%20Fine-Tuning(李昌群).pdf)|
   |雷茜茜|In-context Learning|[Slides](./)|
   |马毅鸣|LLM-Based Agents|[Slides](./)|
   |曾彪杰|LLM solve Math Word Problem|[Slides](./)|
