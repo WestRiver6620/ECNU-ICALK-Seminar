@@ -1,8 +1,8 @@
 # ICA-KE-Seminar
 #### 指导教师：林欣、杨静
+-----------------------------
 
-#### ICA-KE Team 2023 Autumn Seminar
-
+* ### ICA-KE Team 2023 Autumn Seminar
 #### 研究方向：
 
 * ###### 自然语言处理
